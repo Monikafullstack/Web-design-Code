@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Jobby App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Shopping App",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Time Based Image Matching Game",
+    "imageSrc": "projects/project2.png",
+    "description": "learnt react and can be integrated with python and sql.",
+    "skills": ["React", "Html","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
